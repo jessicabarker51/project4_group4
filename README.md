@@ -53,7 +53,7 @@ The insights derived from this analysis hold the potential to guide organization
 This project was collaboratively developed by:
 
 - Jessica Barker
-- Akshaya Sathiya
+- Akshaya Sathiya Moorthy
 - Younes Smyej
 
 
