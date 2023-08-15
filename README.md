@@ -1,5 +1,5 @@
 # Employee Attrition Analysis Project
-![Project Image](path_to_image.png)
+![Project Image](Img/readme img.GIF)
 
 ## Overview
 
