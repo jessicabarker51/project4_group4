@@ -1,5 +1,5 @@
 # Employee Attrition Analysis Project
-![Project Image](Img/readme img.GIF)
+![Project Image](https://github.com/jessicabarker51/project4_group4/blob/f21c374452858775bd537b87ba9d201ad7f5098e/Img/readme%20img.GIF)
 
 ## Overview
 
